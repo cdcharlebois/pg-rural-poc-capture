@@ -1,0 +1,26 @@
+{
+  "url" : "https://rural-poc-data-cap-sandbox.mxapps.io",
+  "identifier" : "io.mxapps.rural-poc-data-cap-sandbox",
+  "version" : "0.0.1",
+  "name" : "rural-poc-data-capture",
+  "description" : null,
+  "iosEnabled" : true,
+  "androidEnabled" : true,
+  "requirePin" : false,
+  "enableOffline" : true,
+  "permissions" : {
+    "calendar" : true,
+    "camera" : true,
+    "photoLibrary" : true,
+    "contacts" : true,
+    "microphone" : true,
+    "geoLocation" : true,
+    "push" : true
+  },
+  "theme" : {
+    "background" : "#0595DB",
+    "text" : "#ffffff",
+    "button" : "#76CA02",
+    "buttonCaption" : "#ffffff"
+  }
+}
