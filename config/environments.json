@@ -1,7 +1,7 @@
 {
   "sandbox" : {
-    "name" : "rural-poc-data-capture",
-    "identifier" : "io.mxapps.rural-poc-data-cap-sandbox",
+    "name" : "ruralpocdatacapture",
+    "identifier" : "io.mxapps.ruralpocdatacapture",
     "url" : "https://rural-poc-data-cap-sandbox.mxapps.io"
   }
 }
