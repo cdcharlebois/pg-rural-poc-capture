@@ -1,0 +1,4 @@
+#Tue Feb 26 20:58:08 EST 2019
+base.0=/Users/conner/mendix/pg/pg-rural-poc-capture/build/platforms/android/app/build/intermediates/transforms/dexMerger/x86/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

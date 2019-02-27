@@ -1,0 +1,108 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.darktalker.cordova.screenshot": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "com.telerik.plugins.nativepagetransitions": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-build-architecture": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-actionsheet": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-cookieemperor": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-spinner": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-file-opener2": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-secure-storage": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "uk.co.workingedge.phonegap.plugin.launchnavigator": {
+      "OKHTTP_VERSION": "3.+",
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "io.mxapps.ruralpocdatacapture"
+    }
+  }
+}
