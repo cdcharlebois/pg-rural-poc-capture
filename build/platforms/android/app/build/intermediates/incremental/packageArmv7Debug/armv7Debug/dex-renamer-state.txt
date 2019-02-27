@@ -1,4 +1,0 @@
-#Tue Feb 26 20:59:00 EST 2019
-base.0=/Users/conner/mendix/pg/pg-rural-poc-capture/build/platforms/android/app/build/intermediates/transforms/dexMerger/armv7/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
