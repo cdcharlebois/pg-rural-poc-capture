@@ -1,7 +1,12 @@
 {
-  "sandbox" : {
-    "name" : "ruralpocdatacapture",
-    "identifier" : "io.mxapps.ruralpocdatacapture",
-    "url" : "https://rural-poc-data-cap-sandbox.mxapps.io"
+  "sandbox": {
+    "name": "ruralpocdatacapture",
+    "identifier": "io.mxapps.ruralpocdatacapture",
+    "url": "https://rural-poc-data-cap-sandbox.mxapps.io"
+  },
+  "local": {
+    "name": "ruralpocdatacapture",
+    "identifier": "io.mxapps.ruralpocdatacapture",
+    "url": "http://10.0.2.2:8080"
   }
 }
