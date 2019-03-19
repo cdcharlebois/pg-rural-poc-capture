@@ -1,26 +1,26 @@
 {
-  "url" : "https://rural-poc-data-cap-sandbox.mxapps.io",
-  "identifier" : "io.mxapps.ruralpocdatacapture",
-  "version" : "0.0.3",
-  "name" : "ruralpocdatacapture",
-  "description" : null,
-  "iosEnabled" : false,
-  "androidEnabled" : true,
-  "requirePin" : false,
-  "enableOffline" : true,
-  "permissions" : {
-    "calendar" : false,
-    "camera" : true,
-    "photoLibrary" : true,
-    "contacts" : false,
-    "microphone" : false,
-    "geoLocation" : true,
-    "push" : false
+  "url": "https://rural-poc-data-cap-sandbox.mxapps.io",
+  "identifier": "io.mxapps.ruralpocdatacapture",
+  "version": "0.0.4",
+  "name": "ruralpocdatacapture",
+  "description": null,
+  "iosEnabled": false,
+  "androidEnabled": true,
+  "requirePin": false,
+  "enableOffline": true,
+  "permissions": {
+    "calendar": false,
+    "camera": true,
+    "photoLibrary": true,
+    "contacts": false,
+    "microphone": false,
+    "geoLocation": true,
+    "push": false
   },
-  "theme" : {
-    "background" : "#0595DB",
-    "text" : "#ffffff",
-    "button" : "#76CA02",
-    "buttonCaption" : "#ffffff"
+  "theme": {
+    "background": "#0595DB",
+    "text": "#ffffff",
+    "button": "#76CA02",
+    "buttonCaption": "#ffffff"
   }
 }
