@@ -8,6 +8,7 @@
   "androidEnabled": true,
   "requirePin": false,
   "enableOffline": true,
+  "crosswalkEnabled": true,
   "permissions": {
     "calendar": false,
     "camera": true,
