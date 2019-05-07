@@ -13,5 +13,10 @@
     "name": "ruralpocdatacapture",
     "identifier": "io.mxapps.ruralpocdatacapture",
     "url": "http://10.0.2.2:8080"
+  },
+  "home": {
+    "name": "ruralpocdatacapture",
+    "identifier": "io.mxapps.ruralpocdatacapture",
+    "url": "http://192.168.0.111:8080"
   }
 }
